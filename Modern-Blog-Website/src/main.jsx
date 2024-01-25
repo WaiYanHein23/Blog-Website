@@ -11,6 +11,7 @@ import { Blogs } from './Pages/Blogs.jsx';
 import { Contact } from './Pages/Contact.jsx';
 import { About } from './Pages/About.jsx';
 import { Services } from './Pages/Services.jsx';
+import Protected from './protect/Protected.jsx'
 import SingleBlog from './Pages/SingleBlog.jsx';
 import Login from './Pages/Login.jsx';
 const router = createBrowserRouter([
